@@ -200,7 +200,7 @@ function quizFinish()
     menu.appendChild(gameOver);
 
 
-    backgroundMusic.src = '/Day 21 - Project (Ben 10 Quiz)/Game Resources/ben10GameOver.mp3';
+    backgroundMusic.src = '/./Game Resources/ben10GameOver.mp3';
         backgroundMusic.loop = false;
         backgroundMusic.play();
 }

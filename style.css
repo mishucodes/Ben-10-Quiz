@@ -1,7 +1,7 @@
 /* GAME RESOURCES */
 @font-face {
     font-family: 'Ben10Font';
-    src: url('/Day 21 - Project (Ben 10 Quiz)/Game Resources/ben10Font1.ttf') format('truetype');
+    src: url('./Game Resources/ben10Font1.ttf') format('truetype');
 }
 *{
     margin: 0;
