@@ -1,12 +1,12 @@
 //MEDIA RESOURCES:
 let clickSound = document.querySelector('#gameBackground audio');
 let introVideo = document.createElement('video');
-    introVideo.src = '/Day 21 - Project (Ben 10 Quiz)/Game Resources/ben10AlienForceIntroVideo.mp4';
+    introVideo.src = './Game Resources/ben10AlienForceIntroVideo.mp4';
 let backgroundImage = document.createElement('img');
     backgroundImage.src = 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41611b21-a7ce-419b-bc77-4644f8105930/ddqw56x-b1ef02a0-ebb3-4a47-ab87-e4c4b8f3020c.jpg/v1/fill/w_1600,h_901,q_75,strp/ben_10__2005__title_card_background_by_therprtnetwork_ddqw56x-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAxIiwicGF0aCI6IlwvZlwvNDE2MTFiMjEtYTdjZS00MTliLWJjNzctNDY0NGY4MTA1OTMwXC9kZHF3NTZ4LWIxZWYwMmEwLWViYjMtNGE0Ny1hYjg3LWU0YzRiOGYzMDIwYy5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.b2WIC3Nru-Gi7ATPGMW0ZdDFiAx5RyWPULe0qFA94po';
     backgroundImage.id = 'backgroundImage';
 let backgroundMusic = document.createElement('audio');
-    backgroundMusic.src = '/Day 21 - Project (Ben 10 Quiz)/Game Resources/ben10GameMusic.mp3';
+    backgroundMusic.src = './Game Resources/ben10GameMusic.mp3';
 
 
 //OTHER RESOURCES & GLOBAL VARIABLES:
